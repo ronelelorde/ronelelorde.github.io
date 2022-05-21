@@ -494,7 +494,6 @@
     margin-top: 20px;
     margin-left: 0;
     margin-right: 0;
-    margin-bottom: initial;
   }
 
   .u-section-5 .u-text-4 {
@@ -524,7 +523,6 @@
   .u-section-5 .u-text-3 {
     width: auto;
     margin-top: 37px;
-    margin-bottom: 0;
   }
 
   .u-section-5 .u-text-4 {
@@ -547,7 +545,7 @@
   }
 
   .u-section-5 .u-text-3 {
-    margin-top: -112px;
+    margin-top: 20px;
   }
 
   .u-section-5 .u-btn-1 {
