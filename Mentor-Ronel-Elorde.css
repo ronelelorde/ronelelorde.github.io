@@ -318,6 +318,7 @@
   min-height: 652px;
   animation-duration: 1000ms;
   background-image: url("images/4quadrant_ymwikt.png");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -355,7 +356,6 @@
   }
 
   .u-section-4 .u-image-1 {
-    background-position: 50% 50%;
     min-height: 553px;
   }
 
